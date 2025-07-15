@@ -1,0 +1,23 @@
+# Representative Publications
+- title: "LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation"
+  authors: "Wei-Jer Chang, Wei Zhan, Masayoshi Tomizuka, Manmohan Chandraker, Francesco Pittaluga"
+  venue: "International Conference on Computer Vision (ICCV)"
+  year: 2025
+  paper: "https://arxiv.org/abs/2504.11521"
+  website: "https://langtraj.github.io/"
+  image: "paper/langtraj.png"
+
+- title: "SAFE-SIM: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries"
+  authors: "Wei-Jer Chang, Francesco Pittaluga, Masayoshi Tomizuka, Wei Zhan, Manmohan Chandraker"
+  venue: "European Conference on Computer Vision (ECCV)"
+  year: 2024
+  paper: "https://arxiv.org/abs/2504.11521"
+  website: "https://safe-sim.github.io/"
+  image: "paper/safesim.gif"
+
+- title: "Editing Driver Character: Socially-Controllable Behavior Generation for Interactive Traffic Simulation"
+  authors: "Wei-Jer Chang*, Chen Tang*, Chenran Li, Yeping Hu, Masayoshi Tomizuka, and Wei Zhan"
+  venue: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2023
+  paper: "https://ieeexplore.ieee.org/document/10172005"
+  image: "paper/scbg.png"

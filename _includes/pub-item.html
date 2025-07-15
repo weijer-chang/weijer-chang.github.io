@@ -1,0 +1,26 @@
+<table class="pub-table">
+    <tr>
+        <td class="thumb-cell">
+            {% if include.video %}
+            <video autoplay muted loop playsinline>
+                <source src="images/{{ include.video }}" type="video/mp4">
+            </video>
+            {% elsif include.image %}
+            <img src="images/{{ include.image }}" alt="{{ include.title }}">
+            {% endif %}
+        </td>
+        <td class="text-cell">
+            <div class="pub-title">{{ include.title }}</div>
+            <div class="pub-authors">{{ include.authors }}</div>
+            <div class="pub-venue"><em>{{ include.venue }}, {{ include.year }}</em></div>
+            <div style="margin-top:0.5rem;">
+                {% if include.paper %}<a class="button-paper" href="{{ include.paper }}"><i class="fa fa-file-text"
+                        aria-hidden="true"></i> paper</a>{% endif %}
+                {% if include.website %} &nbsp; <a class="button-website" href="{{ include.website }}"><i
+                        class="fa fa-external-link"></i> website</a>{% endif %}
+                {% if include.code %} &nbsp; <a class="button-code" href="{{ include.code }}"><i
+                        class="fa fa-github"></i> code</a>{% endif %}
+            </div>
+        </td>
+    </tr>
+</table>
