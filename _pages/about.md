@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 I am a final-year Ph.D. student at UC Berkeley in the [Mechanical Systems Control Lab](https://msc.berkeley.edu/), affiliated with [BAIR](https://bair.berkeley.edu/) and [Berkeley DeepDrive](https://deepdrive.berkeley.edu/), and advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) and Dr. [Wei Zhan](https://zhanwei.site/). 
-I am supported by the NSF Graduate Research Fellowship Program (GRFP) and the Taiwan–UC Berkeley Fellowship.
+I am supported by the NSF Graduate Research Fellowship Program and the Taiwan–UC Berkeley Fellowship.
+
 My research focuses on **behavior simulation for autonomous driving**. Central to this work are machine learning, generative models, reinforcement learning, and robotics. A key aspect is to tackle challenges involving multi-agent, interactive human behavior and complex long-tail scenes at scale.
 
 
