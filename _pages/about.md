@@ -12,7 +12,8 @@ I am supported by the NSF Graduate Research Fellowship Program and the Taiwan–
 My research focuses on **behavior simulation for autonomous driving**. Central to this work are machine learning, generative models, and reinforcement learning. A key aspect is to tackle challenges involving multi-agent, interactive human behavior and complex long-tail scenes at scale.
 
 
-Currently, I’m a research intern at [Applied Intuition](https://www.appliedintuition.com/), working on behavior generation, reasoning, and reinforcement learning. Previously, I was a research intern at [NEC Labs](https://www.nec-labs.com/) with [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/#), focusing on language-based, safety-critical simulation for autonomous driving.
+Currently, I’m a research intern at [Applied Intuition](https://www.appliedintuition.com/), where I work on language models for long-horizon reasoning in planning and large-scale, human-like self-play reinforcement learning.
+Previously, I was a research intern at [NEC Labs](https://www.nec-labs.com/) with [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/#), focusing on language-based, safety-critical simulation for autonomous driving.
 
 I graduated from National Taiwan University. I worked in [Bio-Inspired Robotics Lab](http://biorola.me.ntu.edu.tw/members_alu_ms.html) as an undergrad researcher, advised by Prof. [Pei-Chun Lin](https://scholar.google.com/citations?user=KdWMoM4AAAAJ&hl=en), we developed a [Spherical Robotics System](https://www.youtube.com/watch?v=TvrreooQh-I) that with hybrid rolling and leaping capability.
 
