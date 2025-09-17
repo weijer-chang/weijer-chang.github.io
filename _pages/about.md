@@ -9,9 +9,8 @@ redirect_from:
 I am a final-year Ph.D. student at UC Berkeley in the [Mechanical Systems Control Lab](https://msc.berkeley.edu/), affiliated with [BAIR](https://bair.berkeley.edu/) and [Berkeley DeepDrive](https://deepdrive.berkeley.edu/), and advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) and Dr. [Wei Zhan](https://zhanwei.site/).
 I am supported by the NSF Graduate Research Fellowship Program and the Taiwan–UC Berkeley Fellowship.
 
-My research focuses on developing safe and intelligent autonomous systems for complex, human-centered environments.Central to this work are machine learning, generative models, and reinforcement learning with applications in autonomous driving and robotics. A key aspect is to tackle challenges involving multi-agent, interactive human behavior and complex long-tail scenes at scale.
+My research focuses on developing safe and intelligent autonomous systems for complex, human-centered environments. Central to this work are machine learning, generative models, and reinforcement learning with applications in autonomous driving and robotics. A key aspect is to tackle challenges involving multi-agent, interactive human behavior and complex long-tail scenes at scale.
 
----
 
 Currently, I’m a research intern at [Applied Intuition](https://www.appliedintuition.com/), where I work on language models for long-horizon reasoning in planning and large-scale, human-like self-play reinforcement learning.
 Previously, I was a research intern at [NEC Labs](https://www.nec-labs.com/) with [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/#), focusing on language-based, safety-critical simulation for autonomous driving.
@@ -20,7 +19,7 @@ I graduated from National Taiwan University. I worked in [Bio-Inspired Robotics 
 
 # Publications
 
-For the most up-to-date list of publications, please see `<a href="{{site.author.googlescholar}}">`google scholar`</a>`.
+For the most up-to-date list of publications, please see [google scholar]({{site.author.googlescholar}}).
 
 <style>
   .pub-table { width:100%; max-width:800px; margin:1.5rem auto; border-collapse:separate; border: none; }
