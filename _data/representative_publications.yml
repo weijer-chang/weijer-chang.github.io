@@ -1,4 +1,13 @@
 # Representative Publications
+
+# Representative Publications
+- title: "Self-Play Anchoring with Centralized Reference Models"
+  authors: "Wei-Jer Chang, Akshay Rangesh, Kevin Joseph, Matthew Strong, Masayoshi Tomizuka, Yihan Hu, Wei Zhan"
+  venue: "Preprint" # Update this with the actual venue when known
+  year: 2025 # Update this with the actual year
+  website: "https://spacer-ai.github.io/" # Replace with actual website URL
+  image: "paper/spacer_overview.png" # Add an image file to your images/paper/ directory
+
 - title: "LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation"
   authors: "Wei-Jer Chang, Wei Zhan, Masayoshi Tomizuka, Manmohan Chandraker, Francesco Pittaluga"
   venue: "International Conference on Computer Vision (ICCV)"
