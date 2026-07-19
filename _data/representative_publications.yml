@@ -1,12 +1,38 @@
 # Representative Publications
 
-# Representative Publications
+- title: "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale"
+  authors: "Zhouchonghao Wu*, Akshay Rangesh*, Weixin Li, Wei-Jer Chang, Zachary Lee, Tim Wang, Wei Zhan†"
+  venue: "Technical Report"
+  year: 2026
+  paper: "https://arxiv.org/abs/2607.13028"
+  website: "https://terra-applied.github.io/TerraZero/"
+  # image: "paper/terrazero.png" # TODO: add thumbnail
+
+- title: "HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic"
+  authors: "Yu-Hsiang Chen, Wei-Jer Chang, Christian Kotulla, Thomas Keutgens, Steffen Runde, Tobias Moers, Christoph Klas, Wei Zhan, Masayoshi Tomizuka, Yi-Ting Chen"
+  venue: "International Conference on Robotics and Automation (ICRA)"
+  year: 2026
+  paper: "https://arxiv.org/abs/2602.03447"
+  website: "https://hetroddata.github.io/HetroD/"
+  # image: "paper/hetrod.png" # TODO: add thumbnail
+
+- title: "ECoSim: Data Efficient Fine-Tuning for Controllable Traffic Simulation"
+  authors: "Yu-Hsiang Chen*, Wei-Jer Chang*, Yi-Ting Chen, Masayoshi Tomizuka"
+  venue: "European Conference on Computer Vision (ECCV)"
+  year: 2026
+  paper: "https://arxiv.org/abs/2607.00545"
+  # code: "" # TODO: add code URL
+  website: "https://ecosim-web.github.io/"
+  # image: "paper/ecosim.png" # TODO: add thumbnail
+
 - title: "Self-Play Anchoring with Centralized Reference Models"
   authors: "Wei-Jer Chang, Akshay Rangesh, Kevin Joseph, Matthew Strong, Masayoshi Tomizuka, Yihan Hu, Wei Zhan"
-  venue: "Preprint" # Update this with the actual venue when known
-  year: 2025 # Update this with the actual year
-  website: "https://spacer-ai.github.io/" # Replace with actual website URL
-  image: "paper/spacer_overview.png" # Add an image file to your images/paper/ directory
+  venue: "International Conference on Learning Representations (ICLR)"
+  year: 2026
+  paper: "https://arxiv.org/abs/2510.18060"
+  website: "https://spacer-ai.github.io/"
+  blog: "https://www.appliedintuition.com/research-blog/spacer"
+  image: "paper/spacer_overview.png"
 
 - title: "LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation"
   authors: "Wei-Jer Chang, Wei Zhan, Masayoshi Tomizuka, Manmohan Chandraker, Francesco Pittaluga"
@@ -20,7 +46,7 @@
   authors: "Wei-Jer Chang, Francesco Pittaluga, Masayoshi Tomizuka, Wei Zhan, Manmohan Chandraker"
   venue: "European Conference on Computer Vision (ECCV)"
   year: 2024
-  paper: "https://arxiv.org/abs/2504.11521"
+  paper: "https://arxiv.org/abs/2401.00391"
   website: "https://safe-sim.github.io/"
   image: "paper/safesim.gif"
 

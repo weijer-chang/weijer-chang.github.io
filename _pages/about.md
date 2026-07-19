@@ -39,6 +39,7 @@ For the most up-to-date list of publications, please see [google scholar]({{site
      paper=pub.paper
      website=pub.website
      code=pub.code
+     blog=pub.blog
      image=pub.image
      video=pub.video %}
 {% endfor %}
