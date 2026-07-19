@@ -11,7 +11,7 @@
         </td>
         <td class="text-cell">
             <div class="pub-title">{{ include.title }}</div>
-            <div class="pub-authors">{{ include.authors }}</div>
+            <div class="pub-authors">{{ include.authors | replace: "Wei-Jer Chang", "<strong>Wei-Jer Chang</strong>" }}</div>
             <div class="pub-venue"><em>{{ include.venue }}, {{ include.year }}</em></div>
             <div style="margin-top:0.5rem;">
                 {% if include.paper %}<a class="button-paper" href="{{ include.paper }}"><i class="fa fa-file-text"

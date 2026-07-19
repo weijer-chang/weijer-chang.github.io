@@ -6,16 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. student at UC Berkeley in the [Mechanical Systems Control Lab](https://msc.berkeley.edu/), affiliated with [BAIR](https://bair.berkeley.edu/) and [Berkeley DeepDrive](https://deepdrive.berkeley.edu/), and advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) and Dr. [Wei Zhan](https://zhanwei.site/).
+I recently completed my Ph.D. at UC Berkeley in the [Mechanical Systems Control Lab](https://msc.berkeley.edu/), affiliated with [BAIR](https://bair.berkeley.edu/) and [Berkeley DeepDrive](https://deepdrive.berkeley.edu/), advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) and Dr. [Wei Zhan](https://zhanwei.site/).
 I am supported by the NSF Graduate Research Fellowship Program and the Taiwan–UC Berkeley Fellowship.
 
 My research focuses on developing safe and intelligent autonomous systems for complex, human-centered environments. Central to this work are machine learning, generative models, and reinforcement learning with applications in autonomous driving and robotics. A key aspect is to tackle challenges involving multi-agent, interactive human behavior and complex long-tail scenes at scale.
 
 
-Currently, I’m a research intern at [Applied Intuition](https://www.appliedintuition.com/), where I work on language models for long-horizon reasoning in planning and large-scale, human-like self-play reinforcement learning.
-Previously, I was a research intern at [NEC Labs](https://www.nec-labs.com/) with [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/#), focusing on language-based, safety-critical simulation for autonomous driving.
+Currently, I’m on [Tesla AI](https://www.tesla.com/fsd)’s Autopilot team, working on Full Self-Driving (FSD) to contribute to real-world autonomy.
+Previously, I was a research intern at [Applied Intuition](https://www.appliedintuition.com/), where I worked on large-scale, human-like self-play reinforcement learning, and at [NEC Labs](https://www.nec-labs.com/) with [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/#), focusing on language-based, safety-critical simulation for autonomous driving.
 
 I graduated from National Taiwan University. I worked in [Bio-Inspired Robotics Lab](http://biorola.me.ntu.edu.tw/members_alu_ms.html) as an undergrad researcher, advised by Prof. [Pei-Chun Lin](https://scholar.google.com/citations?user=KdWMoM4AAAAJ&hl=en), we developed a [Spherical Robotics System](https://www.youtube.com/watch?v=TvrreooQh-I) that with hybrid rolling and leaping capability.
+
+# News
+
+{% include news-list.html %}
 
 # Publications
 
