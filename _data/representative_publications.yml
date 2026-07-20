@@ -6,7 +6,7 @@
   year: 2026
   paper: "https://arxiv.org/abs/2607.13028"
   website: "https://terra-applied.github.io/TerraZero/"
-  # image: "paper/terrazero.png" # TODO: add thumbnail
+  video: "paper/terra_zero.mp4"
 
 - title: "ECoSim: Data Efficient Fine-Tuning for Controllable Traffic Simulation"
   authors: "Yu-Hsiang Chen*, Wei-Jer Chang*, Yi-Ting Chen, Masayoshi Tomizuka"
@@ -15,7 +15,7 @@
   paper: "https://arxiv.org/abs/2607.00545"
   # code: "" # TODO: add code URL
   website: "https://ecosim-web.github.io/"
-  # image: "paper/ecosim.png" # TODO: add thumbnail
+  image: "paper/eco_sim.png"
 
 - title: "HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic"
   authors: "Yu-Hsiang Chen, Wei-Jer Chang, Christian Kotulla, Thomas Keutgens, Steffen Runde, Tobias Moers, Christoph Klas, Wei Zhan, Masayoshi Tomizuka, Yi-Ting Chen"
@@ -23,7 +23,7 @@
   year: 2026
   paper: "https://arxiv.org/abs/2602.03447"
   website: "https://hetroddata.github.io/HetroD/"
-  # image: "paper/hetrod.png" # TODO: add thumbnail
+  image: "paper/hetroD.png"
 
 - title: "Self-Play Anchoring with Centralized Reference Models"
   authors: "Wei-Jer Chang, Akshay Rangesh, Kevin Joseph, Matthew Strong, Masayoshi Tomizuka, Yihan Hu, Wei Zhan"
